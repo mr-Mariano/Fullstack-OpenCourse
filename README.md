@@ -1,5 +1,5 @@
 
-# Fullstack Open 2022 Submissions
+# Fullstack Open 2024 Submissions
 This repository contains my submissions for [Fullstack Open 2022](https://fullstackopen.com/) by University of Helsinki
 
 ## Content
